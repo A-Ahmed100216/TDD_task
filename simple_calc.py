@@ -1,5 +1,5 @@
 # Create a class
-class SimpleCalc:
+class Checker:
 
     # Define the modulus function, returns num1%num2
     def mod(self,num1,num2):
